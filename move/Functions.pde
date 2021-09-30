@@ -1,0 +1,23 @@
+void balls(){
+move();
+display();
+move2();
+move3();
+move4();
+move5();
+move6();
+move7();
+move8();
+move9();
+move10();
+move11();
+move12();
+move13();
+move14();
+move15();
+move16();
+move17();
+move18();
+move19();
+move20();
+}
